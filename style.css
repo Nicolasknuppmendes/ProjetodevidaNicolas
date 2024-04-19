@@ -122,3 +122,8 @@ body {
     margin: 0;
 
 }
+.contador{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
