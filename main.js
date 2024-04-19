@@ -39,7 +39,7 @@ function comecaCronometro(){
 }
 comecaCronometro();
 
-    //comecaCronometro();
+    
 
 function calculaTempo(tempoObjetivo) {
     let tempoAtual = new Date();
